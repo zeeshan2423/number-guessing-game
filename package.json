@@ -1,0 +1,13 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/number-guessing.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": ""
+}
